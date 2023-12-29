@@ -55,7 +55,7 @@ function Slider() {
 
                                 <div className="button font-fmaily-2" style={{ textAlign: "center", marginTop : "50px" }}>
                                     <button type='button'>ORDER NOW</button>
-                                </div>
+                                </div> 
                             </div>
                         </div>
                     </div>
